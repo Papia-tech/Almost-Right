@@ -1,10 +1,10 @@
-# 🖥️ ROOT_ACCESS_TERMINAL
-## Geometry-Driven Interactive Terminal
+# DRAW & SUFFER
+## Geometry is input. Algorithms are consequences.
 
 ---
 
 ## 📌 Project Overview
-**ROOT_ACCESS_TERMINAL** is a browser-based terminal simulation where **user-drawn shapes** dynamically control **system difficulty and behavior**.
+**DRAW & SUFFER** is a browser-based terminal simulation where **user-drawn shapes** dynamically control **system difficulty and behavior**.
 
 The project combines:
 - Canvas-based drawing
